@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <cakes count="3">
+        <cake biscuits="3" price="64">
+            <name>Red velvet</name>
+            <confectioner>James Beard</confectioner>
+        </cake>
+        <cake biscuits="10" price="50">
+            <name>Milk girl</name>
+            <confectioner>German confectioner</confectioner>
+        </cake>
+        <cake biscuits="5" price="82">
+            <name>Honey cake</name>
+            <confectioner>Russian confectioner</confectioner>
+        </cake>
+    </cakes>
+</root>
